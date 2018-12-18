@@ -34,4 +34,4 @@ group :development, :test do
 end
 
 gem 'pry'
-gem 'pry-na'
+gem 'pry-nav'
